@@ -1,2 +1,5 @@
-# Tests 1 
-Q: Giving the 2 integers black and white representing the count of the colored balls (return the maximum high for the triangle).
+# Daily Test's 
+In Code Academy Oman, they give us a daily programing problem to solve.
+So , in this repository I will share with you my code answering the problems.
+
+I hope you enjoy this jorny with me.  
