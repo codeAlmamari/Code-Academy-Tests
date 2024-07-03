@@ -1,6 +1,9 @@
 '''
 Abdulrahman Al-Mamari
-full stack developer trainee in Code Academy
+Full Stack Developer Trainee on Code Academy
+
+Day 2 solving code problem's
+
 
 Q2: Given the n*n 2Dmatrix representing an image rotate the image by 90 degree (clock wise)
 
