@@ -1,4 +1,6 @@
 '''
+Abdulrahman Al-Mamari
+full stack developer trainee in Code Academy
 
 Q2: Given the n*n 2Dmatrix representing an image rotate the image by 90 degree (clock wise)
 
@@ -7,6 +9,15 @@ Algorithem:
     - get the length of the matrix
     - nested for loop to handle element by element in the matrix
     - then i use for loop to print the matrix after the rotation
+
+to solve this problem i study how and where the position of each elements move 
+and the mechanism of moving 90 degree with clockwise on n*n matrises and i end up with this.
+using matrix 4*4 
+matrix[j][i] = matrix[i][j+3]
+matrix[j+1][i] = matrix[i][j+2]
+matrix[j+2][i] = matrix[i][j+1]
+matrix[j+3][i] = matrix[i][j]
+
 
 '''
 
