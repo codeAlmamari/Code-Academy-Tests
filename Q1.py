@@ -1,6 +1,8 @@
 """
 Abdulrahman Abdullah Al-Mamari
-Web development course
+Full Stack Web development Trainee in Code Academy
+
+Day 1 solving code problem's
 
 Q1 : Giving the 2 integers black and white representing the count of the colored balls (return the maximum high for the triangle).
 
