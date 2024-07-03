@@ -1,14 +1,8 @@
 """
-Q : Giving the 2 integers black and white representing the count of the colored balls (return the maximum high for the triangle).
-"""
-
-"""
-
-Solution: 
-
-
 Abdulrahman Abdullah Al-Mamari
 Web development course
+
+Q1 : Giving the 2 integers black and white representing the count of the colored balls (return the maximum high for the triangle).
 
 Algorithm:
     - The program starting with tacking the numbers of the black and white balls
